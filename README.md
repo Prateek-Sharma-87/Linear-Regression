@@ -1,2 +1,2 @@
 # Linear-Regression
-Implementation of Linear Regression Models using Scikit-learn
+Implementation of Linear Regression Model using Scikit-learn
